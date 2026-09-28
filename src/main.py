@@ -17,6 +17,14 @@ from __future__ import annotations
 import argparse
 import asyncio
 import sys
+try:
+    if hasattr(sys.stdout, "reconfigure"):
+        sys.stdout.reconfigure(encoding="utf-8")
+    if hasattr(sys.stderr, "reconfigure"):
+        sys.stderr.reconfigure(encoding="utf-8")
+except Exception:
+    pass
+
 from pathlib import Path
 
 # Cho phép chạy ``python src/main.py`` từ gốc repo

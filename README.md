@@ -1,6 +1,8 @@
 # Day 11 — Controlled Agent Security (2026)
 
-> 👤 **Hình thức:** bài tập **cá nhân** (1 người / 1 MSSV).  
+> 👤 **Học viên:** Đậu Quang Ý  
+> 🆔 **MSSV:** 2A202602661  
+> 🏫 **Khóa học:** K4 - L3 (Day 11)  
 > 🎯 **Mục tiêu:** xây **Blue** (phòng thủ), rồi red-team **Red** + **Red Advance**.  
 > ✅ Làm theo **Checkpoint 1 → 5** trong [`CHECKPOINTS.md`](CHECKPOINTS.md) · nộp theo [`SUBMISSION.md`](SUBMISSION.md).
 
